@@ -1,5 +1,5 @@
 {
-    "name": "hacoidev/laravel-caching-model",
+    "name": "chilltvpack/laravel-caching-model",
     "description": "A simple cache library for laravel eloquent model",
     "type": "library",
     "require": {
@@ -9,13 +9,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hacoidev\\CachingModel\\": "src/"
+            "chilltvpack\\CachingModel\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "hacoidev",
-            "email": "hacoi.dev@gmail.com"
+            "name": "chilltv",
+            "email": "hr.anveco@gmail.com"
         }
     ],
     "minimum-stability": "stable"
